@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugavels26&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugavels26" /> </p>
 
-<img align="right" alt="coding" width="400" src="">
 
 -🔭 I’m currently working in ITC Limited, pune as Technical Executive (Sept-2018 - present)
 
