@@ -1,4 +1,8 @@
-![logo]()
+<img align="center" alt="coding" width="5000"  src="https://github.com/ShanmugavelS26/ShanmugavelS26/blob/main/Shanmugavel%20S.png" />
+
+<img align="center" alt="coding" width="5000"  src="" />
+
+
 <h1 align="center">Hi 👋, I'm Shanmugavel S</h1>
 <h3 align="center">Looking forward to move into Data Science field</h3>
 
