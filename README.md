@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugavels26&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugavels26" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/122375024/232581623-fb92da8f-cc5f-4569-ad26-f6393dc1c5be.png" />
-
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 -🔭 I’m currently working in ITC Limited, pune as Technical Executive (Sept-2018 - present)
 
