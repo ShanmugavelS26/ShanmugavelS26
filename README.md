@@ -25,10 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugavels26&" alt="shanmugavels26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanmugavels26&show_icons=true&locale=en" alt="shanmugavels26" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmugavels26&show_icons=true&locale=en&layout=compact" alt="shanmugavels26" /></p>
-
+![ShanmugavelS26's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmugavels26&show_icons=true&theme=dark)
 
 <h3 align="left">ITC Limited Responsibilities and Roles:</h3>
 <p align="left">
@@ -128,5 +125,7 @@ Animation Picture added by JSON file
 
 • Completion of project before deadline with all the requirements given by the guvi
 institution
+
+
 
 </p>
