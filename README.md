@@ -115,17 +115,40 @@ Technologies : Streamlit, Visual Studio Code, Required library in IDE, MongoDB
 
 Responsibilities :
 • As it is individual project learning of Streamlit tool
-
 • Interfacing the collected data to mongo DB for storing the extracted data
-
 • Allow user to download the collected data as JSON and CSV format
-
 • Addon Animation added by CSS and toml file for changing background colors and
 Animation Picture added by JSON file
-
 • Completion of project before deadline with all the requirements given by the guvi
 institution
 
+2. Phonepe pulse Data Visualization and Exploration live geo visualization dashboard with information
+displayed about Phonepe pulse with interactive and appealing manner with 10 different dropdown which user
+can select facts to display and data will be stored in MySQL database for efficient retrieval of data and
+dashboard will be dynamically updated the latest data
 
+Technologies : Streamlit, GitHub cloning, Python, Visual Studio Code, Pandas, MySQL, Plotly
+
+Responsibilities :
+• As it is individual project learning of Streamlit tool, GitHub Cloning
+• Data extraction by cloning the GitHub repository of Phonepe pulse and store it in CSV or JSON format
+• Data transformation by python along with required library to manipulate process data by data cleaning, handling the missing data and transforming the data fir analysis and visualization
+• MySQL database insertion by mysql connector python lib to connect python to MySQL and insert transformed data using SQL commands
+• Dashboard creation using Streamlit and Plotly creating a interactive visual dashboard
+• Date retrieval by connecting to MySQL and by using pandas data frame to update the data into dashboard
+• Deployment ensure the solution is secure, efficient and user-friendly test the data thoroughly and deploy the dashboard publicly
+• Completion of project before deadline with all the requirements given by the guvi
+
+3. BizCardX: Extracting Business Card Data with OCR with streamlit GUI user can Add the business card by upload image (jpg,png,jpeg) with size limit 200MB and can extract the image data and store in mysql database table and then table can be view by selecting view menu and image datails can be updated with latested detail in updated menu and at last delete menu allows user to delete the business card detail which was added before in the database 
+
+Technologies : Streamlit, Python, Visual Studio Code, Pandas, MySQL, Numpy, EasyOCR
+
+Responsibilities :
+• As it is individual project learning of Streamlit tool, image data extraction 
+• Created user GUI interface in streamlit with uploader image files 
+• MySQL database insertion by mysql connector python lib to connect python to MySQL and insert extracted result in table format 
+• Allow user view,update and delete the database details of their business card 
+• New features added like ballon animation , gif animations
+• Completion of project before deadline with all the requirements given by the guvi
 
 </p>
