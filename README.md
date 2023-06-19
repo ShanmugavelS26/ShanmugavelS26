@@ -30,22 +30,14 @@
 <h3 align="left">ITC Limited Responsibilities and Roles:</h3>
 <p align="left">
 • Recognized for closing of most safety points and maintaining spare inventories
-
 • Closing of point safety before audit and maintaining the documents
-
 • Maintaining the spare part for machine, closing of maintenance point at machine maintenance day
-
 • Regular check on quality of the product and risk assessment of market complaint
-
 • Machine handle in shift need to resolve the problem with less downtimes and should impact on
 production
-
 • Involved in Brand change activities and resuming quality data in central system when interrupted
-
 • Inspective of all OCR camera working around all technology machine
-
 • Got training on machine and making Standard Operating Procedure & PPT
-
 • Taking backup of PLC program and parameter and changing of password at machine every 6 month
 
 </p>
@@ -54,26 +46,18 @@ production
 <p align="left">
 1. Capsule Detection system this system to detect the capsule by camera in the production
 line at high speed machine and reject the defect product. 
-
 2. NTRM Detection system this system to detect the foreign particles in the production line at highspeed machine and reject the defect product.
-
 3. Robot Installation CFC has been placed by the man power on pallet as on CFC weight is around 40Kgs
 after installation of this robot 2 lines is handled by one robot. 
-
 4. Stamping unit and Track and trace unit this unit is installed as per government and market requirement by this production can be detected by unique ID. 
-
 5. PCT curve wander detection this is taken as trail projects for detection of curve graphics as
 existing system is not capable of it and configuration of camera along with vendor. 
-
 6. Waste sorting
 machine Man power required for sorting of waste in production now it has been eliminated. 
-
 7. Case packer taping unit by this unit the taping process as been motorized for good taping quality before it
 was cylinder-based 
-
 8. Case packer Outer miss detection camera this system is to detect the missed outer
 across all rows and columns before only top layer was getting detected by camera based 
-
 9. Case packer conveyor extension New conveyor added and extension done for creating more buffer for producing
 CFC
 
@@ -84,22 +68,16 @@ Responsibilities :
 • Both camera detection cable routing and connection as per drawing along with vendor. Training
 got on both detection system and maintaining the system in working at production time and
 conducting shock test regularly
-
 • Installed the robot and trained by the vendors to hand on the robot and maintain in working at
 production time and ordering the required points (40 points closed after installation issue faced at
 robot) and Operation training given to machine crew
-
 • Installation on stamping unit and track and trace unit on given deadline took into production and
 configuration of camera and setting as per products
-
 • Installation of waste sorting machine as per safety guideline converted 230V control unit to 24 V
 control unit and addition motors added at machine competed on before deadlines
-
 • Installing of tapping unit connection and mounting of motor and logic modification in PLC end
-
 • Installing the camera calculated the distance of the product and choosing the correct camera and
 configuration of it to detect the miss outer, logic modified in PLC and in HMI message edit
-
 • Conveyor extension Control unit connection done motor fixed and new gates and sensor added
 and took it into existing logic and finished it before deadline
 
