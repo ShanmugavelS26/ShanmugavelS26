@@ -31,14 +31,23 @@
 <p align="left">
 
 • Apply my expertise in issue handling and maintenance to ensure smooth operation of machines during shifts, minimizing downtime and optimizing production output.
+
 • Demonstrate my proficiency in troubleshooting, problem-solving, and time management to promptly resolve machine-related issues and minimize disruptions to production.
+
 • Act as an effective team member by providing training, guidance, and support to colleagues, fostering a collaborative work environment and contributing to the success of projects.
+
 • Participate in the closure of audit points and documentation, ensuring adherence to quality standards and maintaining accurate records.
+
 • Proactively address safety concerns and contribute to maintaining a safe working environment by closing safety points and effectively managing spare inventories.
+
 • Continuously monitor and assess the quality of the products, conducting risk assessments of market complaints, and implementing necessary improvements to meet customer expectations.
+
 • Coordinate brand change activities and ensure the uninterrupted resumption of quality data in the central system.
+
 • Perform inspections of all OCR cameras associated with technology machines, ensuring their proper functioning and accuracy.
+
 • Utilize my training in machine operations to develop Standard Operating Procedures (SOPs) and create informative presentations (PPTs) for the team.
+
 • Take regular backups of PLC programs and parameters, ensuring data security, and periodically change machine passwords to maintain system integrity.
 
 </p>
