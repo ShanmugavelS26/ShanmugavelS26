@@ -112,48 +112,38 @@ and took it into existing logic and finished it before deadline
   
 <h3 align="left">Twitter Scrapping</h3>
 
-1.Getting the twitter user name or hashtags, number of tweets, and
-date range from the user and show it as a table format and allow
+• Getting the twitter user name or hashtags, number of tweets, and date range from the user and show it as a table format and allow
 user to download as JSON and CSV format
-2. Technologies – Streamlit, Python, Visual Studio code, Required
-library in IDE, MongoDB
-3. Streamlit as frontend tool allow user to enter the data and
-interface the collected data to MongoDB for storage and allow user
-to download the collected data as JSON and CSV addon
-Animation and Picture used in Streamlit
+
+• Technologies – Streamlit, Python, Visual Studio code, Required library in IDE, MongoDB
+
+• Streamlit as frontend tool allow user to enter the data and interface the collected data to MongoDB for storage and allow user
+to download the collected data as JSON and CSV addon Animation and Picture used in Streamlit
 
 Twitter Scrapping Link - https://drive.google.com/file/d/1vhtkpj8yz9tfPJaBeOtSnvOWU0s3UTbd/view?usp=drive_link
 
 <h3 align="left"> Phonepe Pulse Data Visualization and Exploration</h3>
 
-1.Live Geo visualization dashboard with information displayed about
-phonepe pulse with interactive manner and data will be stored in
-MySQL database for efficient retrieval of data and dashboard will
-be dynamically updated the latest data
-2.Technologies – Streamlit, GitHub clone, Python, Visual Studio code,
-Pandas, MySQL, Plotly
-3.Data extraction by cloning GitHub repository and store data in
-CSV data transformation by data cleaning, handling missing data,
-and transforming for data analysis and visualization, storing the
-collected data in MySQL database, Dashboard creation and graphs
-in streamlit, retrieval of data from MySQL and update in dashboard
-and deployment of the app in the streamlit
+• Live Geo visualization dashboard with information displayed about phonepe pulse with interactive manner and data will be stored in
+MySQL database for efficient retrieval of data and dashboard will be dynamically updated the latest data
+
+• Technologies – Streamlit, GitHub clone, Python, Visual Studio code, Pandas, MySQL, Plotly
+
+• Data extraction by cloning GitHub repository and store data in CSV data transformation by data cleaning, handling missing data,
+and transforming for data analysis and visualization, storing the collected data in MySQL database, Dashboard creation and graphs
+in streamlit, retrieval of data from MySQL and update in dashboard and deployment of the app in the streamlit
 
 Phonepe Pulse Data Visualization and Exploration Link - https://drive.google.com/file/d/1yz5TTnpQ1QvWkrYmQwaCuKEWcx1i-HQQ/view?usp=drive_link
 
 <h3 align="left"> BizCardX Extracting Business Card Data with OCR </h3>
 
-1.Streamlit GUI user can add the Business card by upload image with
-size limit 200MB and can extract the image data and store in MySQL
-database table and then table can be viewed by selecting the
-menu and image details can be updated with latest details and
+• Streamlit GUI user can add the Business card by upload image with size limit 200MB and can extract the image data and store in MySQL
+database table and then table can be viewed by selecting the menu and image details can be updated with latest details and
 user can delete the business card details from the database
 
-2. Technologies – Streamlit, Python, Visual Studio code, Pandas,
-MySQL, Plotly, NumPy
+• Technologies – Streamlit, Python, Visual Studio code, Pandas, MySQL, Plotly, NumPy
 
-3. Create user GUI in streamlit with image file uploader, MySQL
-database to insert extracted details as table, user can view, update
+• Create user GUI in streamlit with image file uploader, MySQL database to insert extracted details as table, user can view, update
 & delete business card details, addon balloons and GIF animation
 
 BizCardX Extracting Business Card Data with OCR Link - https://drive.google.com/file/d/1uajCgaJeCWCKCBK_GmKluDWQxx7haE4i/view?usp=drive_link
@@ -163,16 +153,13 @@ BizCardX Extracting Business Card Data with OCR Link - https://drive.google.com/
 
 <h3 align="left"> Customer Conversation Prediction </h3>
 
-1.Historical marketing data of the insurance company data is given
-by using previous data ML model is build to predict a client will
+• Historical marketing data of the insurance company data is given by using previous data ML model is build to predict a client will
 subscribe to insurance
 
-2. Technologies –Python, VisualStudio code, Required library in IDE
+• Technologies –Python, VisualStudio code, Required library in IDE
 
-3. By collecting the historical marketing data build a ML model
-and train the model with a interactive graph that can predict
-a client will subscribe the insurance or not and F1 score is used to
-evaluate the performance of the model
+• By collecting the historical marketing data build a ML model and train the model with a interactive graph that can predict
+a client will subscribe the insurance or not and F1 score is used to evaluate the performance of the model
 
 Customer Converstion Predicition Link - https://drive.google.com/file/d/1jXYnp8z3Mg5LQFni-h2r9DxeHQvO7-m4/view?usp=drive_link
 
@@ -180,14 +167,12 @@ Customer Converstion Predicition Link - https://drive.google.com/file/d/1jXYnp8z
 
 <h3 align="left"> Analysis on amazon prime videos using Tableau </h3>
 
-1.Data collection and preparation gather the data related to
-amazon prime video and ensure data in structured and suitable
+• Data collection and preparation gather the data related to amazon prime video and ensure data in structured and suitable
 format import into tableau
 
-2. Technologies – Tableau
+• Technologies – Tableau, Python, VisualStudio code, Required library in IDE
   
-3. Connecting the data in tableau and data exploration, visualization
-and creating various dashboard to represent the data
+• Connecting the data in tableau and data exploration, visualization and creating various dashboard to represent the data
 
 Analysis on amazon prime videos link - https://drive.google.com/file/d/1MKENEXvEI_61Nn99z6eAO3yE2IcCd0Ds/view?usp=drive_link
 
