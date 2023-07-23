@@ -108,65 +108,87 @@ and took it into existing logic and finished it before deadline
 
 <h3 align="left">Guvi Projects:</h3>
 <p align="left">
-1. Twitter Scrapping Getting the twitter user name or hashtags, number of twitter and
-date range from the user and show it as a table format and allowed user to download in JSON and CSV
-format
 
-Technologies : Streamlit, Visual Studio Code, Required library in IDE, MongoDB
+  
+<h3 align="left">Twitter Scrapping</h3>
 
-Responsibilities :
-• As it is individual project learning of Streamlit tool
+1.Getting the twitter user name or hashtags, number of tweets, and
+date range from the user and show it as a table format and allow
+user to download as JSON and CSV format
+2. Technologies – Streamlit, Python, Visual Studio code, Required
+library in IDE, MongoDB
+3. Streamlit as frontend tool allow user to enter the data and
+interface the collected data to MongoDB for storage and allow user
+to download the collected data as JSON and CSV addon
+Animation and Picture used in Streamlit
 
-• Interfacing the collected data to mongo DB for storing the extracted data
+Twitter Scrapping Link - https://drive.google.com/file/d/1vhtkpj8yz9tfPJaBeOtSnvOWU0s3UTbd/view?usp=drive_link
 
-• Allow user to download the collected data as JSON and CSV format
+<h3 align="left"> Phonepe Pulse Data Visualization and Exploration</h3>
 
-• Addon Animation added by CSS and toml file for changing background colors and
-Animation Picture added by JSON file
+1.Live Geo visualization dashboard with information displayed about
+phonepe pulse with interactive manner and data will be stored in
+MySQL database for efficient retrieval of data and dashboard will
+be dynamically updated the latest data
+2.Technologies – Streamlit, GitHub clone, Python, Visual Studio code,
+Pandas, MySQL, Plotly
+3.Data extraction by cloning GitHub repository and store data in
+CSV data transformation by data cleaning, handling missing data,
+and transforming for data analysis and visualization, storing the
+collected data in MySQL database, Dashboard creation and graphs
+in streamlit, retrieval of data from MySQL and update in dashboard
+and deployment of the app in the streamlit
 
-• Completion of project before deadline with all the requirements given by the guvi
-institution
+Phonepe Pulse Data Visualization and Exploration Link - https://drive.google.com/file/d/1yz5TTnpQ1QvWkrYmQwaCuKEWcx1i-HQQ/view?usp=drive_link
 
-2. Phonepe pulse Data Visualization and Exploration live geo visualization dashboard with information
-displayed about Phonepe pulse with interactive and appealing manner with 10 different dropdown which user
-can select facts to display and data will be stored in MySQL database for efficient retrieval of data and
-dashboard will be dynamically updated the latest data
+<h3 align="left"> BizCardX Extracting Business Card Data with OCR </h3>
 
-Technologies : Streamlit, GitHub cloning, Python, Visual Studio Code, Pandas, MySQL, Plotly
+1.Streamlit GUI user can add the Business card by upload image with
+size limit 200MB and can extract the image data and store in MySQL
+database table and then table can be viewed by selecting the
+menu and image details can be updated with latest details and
+user can delete the business card details from the database
 
-Responsibilities :
-• As it is individual project learning of Streamlit tool, GitHub Cloning
+2. Technologies – Streamlit, Python, Visual Studio code, Pandas,
+MySQL, Plotly, NumPy
 
-• Data extraction by cloning the GitHub repository of Phonepe pulse and store it in CSV or JSON format
+3. Create user GUI in streamlit with image file uploader, MySQL
+database to insert extracted details as table, user can view, update
+& delete business card details, addon balloons and GIF animation
 
-• Data transformation by python along with required library to manipulate process data by data cleaning, handling the missing data 
-and transforming the data fir analysis and visualization
+BizCardX Extracting Business Card Data with OCR Link - https://drive.google.com/file/d/1uajCgaJeCWCKCBK_GmKluDWQxx7haE4i/view?usp=drive_link
 
-• MySQL database insertion by mysql connector python lib to connect python to MySQL and insert transformed data using SQL commands
 
-• Dashboard creation using Streamlit and Plotly creating a interactive visual dashboard
+<h3 align="left"> FINAL PROJECT </h3>
 
-• Date retrieval by connecting to MySQL and by using pandas data frame to update the data into dashboard
+<h3 align="left"> Customer Conversation Prediction </h3>
 
-• Deployment ensure the solution is secure, efficient and user-friendly test the data thoroughly and deploy the dashboard publicly
+1.Historical marketing data of the insurance company data is given
+by using previous data ML model is build to predict a client will
+subscribe to insurance
 
-• Completion of project before deadline with all the requirements given by the guvi
+2. Technologies –Python, VisualStudio code, Required library in IDE
 
-3. BizCardX: Extracting Business Card Data with OCR with streamlit GUI user can Add the business card by upload image (jpg,png,jpeg) with size limit 200MB and can extract the image data and store in mysql database table and then table can be view by selecting view menu and image datails can be updated with latested detail in updated menu and at last delete menu allows user to delete the business card detail which was added before in the database 
+3. By collecting the historical marketing data build a ML model
+and train the model with a interactive graph that can predict
+a client will subscribe the insurance or not and F1 score is used to
+evaluate the performance of the model
 
-Technologies : Streamlit, Python, Visual Studio Code, Pandas, MySQL, Numpy, EasyOCR
+Customer Converstion Predicition Link - https://drive.google.com/file/d/1jXYnp8z3Mg5LQFni-h2r9DxeHQvO7-m4/view?usp=drive_link
 
-Responsibilities :
-• As it is individual project learning of Streamlit tool, image data extraction 
+<h3 align="left"> ADDON PROJECT </h3>
 
-• Created user GUI interface in streamlit with uploader image files 
+<h3 align="left"> Analysis on amazon prime videos using Tableau </h3>
 
-• MySQL database insertion by mysql connector python lib to connect python to MySQL and insert extracted result in table format
+1.Data collection and preparation gather the data related to
+amazon prime video and ensure data in structured and suitable
+format import into tableau
 
-• Allow user view,update and delete the database details of their business card 
+2. Technologies – Tableau
+  
+3. Connecting the data in tableau and data exploration, visualization
+and creating various dashboard to represent the data
 
-• New features added like ballon animation , gif animations
-
-• Completion of project before deadline with all the requirements given by the guvi
+Analysis on amazon prime videos link - https://drive.google.com/file/d/1MKENEXvEI_61Nn99z6eAO3yE2IcCd0Ds/view?usp=drive_link
 
 </p>
