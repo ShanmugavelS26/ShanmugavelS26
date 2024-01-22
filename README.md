@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZwFuuV5PYU34epsLavQpTPMuJg0NuDXL/view?usp=drive_link](https://drive.google.com/file/d/1ZwFuuV5PYU34epsLavQpTPMuJg0NuDXL/view?usp=drive_link)
 
-- <img alt="coding" width="5"  src="https://github.com/ShanmugavelS26/ShanmugavelS26/blob/main/portfolio.png" /> Know about my portfolio [https://shanmugavel2602199.wixsite.com/my-portfolio](https://shanmugavel2602199.wixsite.com/my-portfolio)
+- <img alt="coding" width="500"  src="https://github.com/ShanmugavelS26/ShanmugavelS26/blob/main/portfolio.png" /> Know about my portfolio [https://shanmugavel2602199.wixsite.com/my-portfolio](https://shanmugavel2602199.wixsite.com/my-portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
