@@ -1,15 +1,15 @@
 <img align="center" alt="coding" width="5000"  src="https://github.com/ShanmugavelS26/ShanmugavelS26/blob/main/banner_2.png" />
 
 <h1 align="center">Hi 👋, I'm Shanmugavel S</h1>
-<h3 align="center">Looking forward to move into Data Science field</h3>
+<h3 align="center">Looking forward to move into Data Science field in full time role </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugavels26&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugavels26" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
--🔭 I’m currently working in ITC Limited, pune as Technical Executive (Sept-2018 - present)
+-🔭 I worked in ITC Limited, Pune as Technical Executive (Sept-2018 - Dec 2023)
 
-- 🌱 I’m currently learning **Data Science from Guvi**
+- 🌱 I’m currently Pursuing **BS Degree in Data Science and Application from IIT-Madras**
 
 - 📫 How to reach me **shanmugavel26021997@gmail.com  9940714434**
 
