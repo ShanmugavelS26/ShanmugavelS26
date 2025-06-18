@@ -11,6 +11,9 @@
 
 - 🌱 I’m currently Pursuing **BS Degree in Data Science and Application from IIT-Madras**
 
+- Current level - Diploma in Data Science and Programming
+- Completed level - Foundation 
+
 - 📫 How to reach me **shanmugavel26021997@gmail.com  9940714434**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZwFuuV5PYU34epsLavQpTPMuJg0NuDXL/view?usp=drive_link](https://drive.google.com/file/d/1ZwFuuV5PYU34epsLavQpTPMuJg0NuDXL/view?usp=drive_link)
