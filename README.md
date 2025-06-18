@@ -59,10 +59,10 @@
 
 • **Machine equipment Data Analysis and Prediction**
 
-**Target :** Analysis the performance of the heater by using the machine live data and build the Machine learning model
-**Project :** Data collection from the centralize data application for machine heater live data, Data storage used SQL server management, ML model build by using machine heater live data to predict the heater maintenance time and trained **the model to analyse the product life cycle based on the temperature behavior of the heater in the machine prediction accuracy is 90 %** By this model we can able to plan the maintenance activity and look after the performance of the heater
-**Technologies used in this project** Python — SQL — Machine Learning algorithms
-**Outcome :** By this model we can able to plan the maintenance activity and look after the performance of the heater
+ 1. **Target :** Analysis the performance of the heater by using the machine live data and build the Machine learning model
+ 2. **Project :** Data collection from the centralize data application for machine heater live data, Data storage used SQL server management, ML model build by using machine heater live data to predict the heater maintenance time and trained **the model to analyse the product life cycle based on the temperature behavior of the heater in the machine prediction accuracy is 90 %** By this model we can able to plan the maintenance activity and look after the performance of the heater
+ 3. **Technologies used in this project** Python — SQL — Machine Learning algorithms
+ 4. **Outcome :** By this model we can able to plan the maintenance activity and look after the performance of the heater
 
 • **Production performance analyzer**
 
