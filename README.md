@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugavels26&" alt="shanmugavels26" /></p>
 
@@ -32,79 +32,40 @@
 <h3 align="left">ITC Limited Responsibilities and Roles:</h3>
 <p align="left">
 
-• Apply my expertise in issue handling and maintenance to ensure smooth operation of machines during shifts, minimizing downtime and optimizing production output.
+• Apply my expertise in issue handling and maintenance to ensure smooth operation of machines during shifts, **minimizing downtime by 20% every month** and optimizing production output.
 
-• Demonstrate my proficiency in troubleshooting, problem-solving, and time management to promptly resolve machine-related issues and minimize disruptions to production.
+• Demonstrate my proficiency in troubleshooting, problem solving and **time management to promptly resolve machine related issues 10% every month** and minimize disruptions to production.
 
-• Act as an effective team member by providing training, guidance, and support to colleagues, fostering a collaborative work environment and contributing to the success of projects.
+• Proactively address safety concerns and contribute to maintaining a safe working environment by closing safety points and **effectively managing spare inventories every 3 months**
 
-• Participate in the closure of audit points and documentation, ensuring adherence to quality standards and maintaining accurate records.
+• Continuously monitor and assess quality of the products, conducting risk assessments of market complaints and implementing necessary improvements to meet customer expectations.
 
-• Proactively address safety concerns and contribute to maintaining a safe working environment by closing safety points and effectively managing spare inventories.
+• Coordinate **brand change activities 70% every shift** and ensure uninterrupted resumption of quality data in central system.
 
-• Continuously monitor and assess the quality of the products, conducting risk assessments of market complaints, and implementing necessary improvements to meet customer expectations.
+• **Take regular backups every 3 months PLC programs and parameters** ensuring data security and every 6 month change machine passwords to maintain system integrity.
 
-• Coordinate brand change activities and ensure the uninterrupted resumption of quality data in the central system.
+• Perform inspections of all OCR cameras associated with technology machines in every shift, ensuring their proper functioning and accuracy and **performing shock test monthly once**.
 
-• Perform inspections of all OCR cameras associated with technology machines, ensuring their proper functioning and accuracy.
+• **Closing of CAPA for downtime’s issue greater then 60 Min’s** and to analysis the root case and for quality market complaints.
 
-• Utilize my training in machine operations to develop Standard Operating Procedures (SOPs) and create informative presentations (PPTs) for the team.
+• Creating Dashboard in PowerBI based on requirements.
 
-• Take regular backups of PLC programs and parameters, ensuring data security, and periodically change machine passwords to maintain system integrity.
+• Built Machine learning project to predict heater life cycle and maintenance time
 
 </p>
 
 <h3 align="left">ITC Limited Projects:</h3>
 <p align="left">
-1. Capsule Detection system this system to detect the capsule by camera in the production
-line at high speed machine and reject the defect product. 
-  
-2. NTRM Detection system this system to detect the foreign particles in the production line at highspeed machine and reject the defect product.
 
-3. Robot Installation CFC has been placed by the man power on pallet as on CFC weight is around 40Kgs
-after installation of this robot 2 lines is handled by one robot.
+• **Machine equipment Data Analysis and Prediction**
 
-4. Stamping unit and Track and trace unit this unit is installed as per government and market requirement by this production can be detected by unique ID.
-  
-5. PCT curve wander detection this is taken as trail projects for detection of curve graphics as
-existing system is not capable of it and configuration of camera along with vendor.
+**Target :** Analysis the performance of the heater by using the machine live data and build the Machine learning model
+**Project :** Data collection from the centralize data application for machine heater live data, Data storage used SQL server management, ML model build by using machine heater live data to predict the heater maintenance time and trained **the model to analyse the product life cycle based on the temperature behavior of the heater in the machine prediction accuracy is 90 %** By this model we can able to plan the maintenance activity and look after the performance of the heater
+**Technologies used in this project** Python — SQL — Machine Learning algorithms
+**Outcome :** By this model we can able to plan the maintenance activity and look after the performance of the heater
 
-6. Waste sortingmachine Man power required for sorting of waste in production now it has been eliminated.
- 
-7. Case packer taping unit by this unit the taping process as been motorized for good taping quality before it
-was cylinder-based
+• **Production performance analyzer**
 
-8. Case packer Outer miss detection camera this system is to detect the missed outer
-across all rows and columns before only top layer was getting detected by camera based
-
-9. Case packer conveyor extension New conveyor added and extension done for creating more buffer for producing
-CFC
-
-Technologies : Keyence Visual studio , IV 2 Navigator , Twin cat 3 , TIA 15.1 , dataman software
-
-Responsibilities :
-
-• Both camera detection cable routing and connection as per drawing along with vendor. Training
-got on both detection system and maintaining the system in working at production time and
-conducting shock test regularly
-
-• Installed the robot and trained by the vendors to hand on the robot and maintain in working at
-production time and ordering the required points (40 points closed after installation issue faced at
-robot) and Operation training given to machine crew
-
-• Installation on stamping unit and track and trace unit on given deadline took into production and
-configuration of camera and setting as per products
-
-• Installation of waste sorting machine as per safety guideline converted 230V control unit to 24 V
-control unit and addition motors added at machine competed on before deadlines
-
-• Installing of tapping unit connection and mounting of motor and logic modification in PLC end
-
-• Installing the camera calculated the distance of the product and choosing the correct camera and
-configuration of it to detect the miss outer, logic modified in PLC and in HMI message edit
-
-• Conveyor extension Control unit connection done motor fixed and new gates and sensor added
-and took it into existing logic and finished it before deadline
 
 </p>
 
