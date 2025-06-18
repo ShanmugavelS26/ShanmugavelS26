@@ -65,7 +65,50 @@
  4. **Outcome :** By this model we can able to plan the maintenance activity and look after the performance of the heater
 
 • **Production performance analyzer**
+ 1. **Target :** To built the dashboard for the production performance analysis across of all units
+ 2. **Project :** Data collection from central application of all the units production data, Store the data in excel format, created the dashboard to analysis the performance of all the units and **data will be refresh weekly** By this we can able to analysis the production performance in visualize manner before it was in table format or by verbal communication
+ 3. **Technologies used in this project** Excel — PowerBI — EDA — Python
+ 4. **Outcome :** By this we can able to analyse the production performace my weekly basis in good Visualization way before it was in centralize system in a normal data manner
 
+• **Technologies used in all electronics projects**
+ 1. Keyence Visual studio
+ 2. IV 2 Navigator
+ 3. Twin cat 3
+ 4. TIA 15.1
+ 5. Dataman software
+
+• **Capsule and NTRM Detection system**
+ 1. This system to **detect the foreign particles in the production line at high speed machine** and reject the defect product.
+ 2. Capsule and NTRM camera detection cable routing and connection as per drawing along with vendor.
+ 3. Training got on both detection system and maintaining the system in working at production time and **conducting shock test regularly**
+
+• **Robot Installation**
+ 1. CFC has been placed by the man power on pallet as on **CFC weight is around 40 Kgs** after installation of this robot **2 lines is handled by one robot**.
+ 2. Installed the robot and trained by the vendors to hand on the robot and maintain in working at production time and **ordered the required spares at interval of 3 months** and Operation training given to machine crew
+ 3. **40 points closed** after installation issue faced at robot
+
+• **Stamping unit and Track and trace unit** 
+ 1. This unit is **installed as per government and market requirement** by this products can be detected by unique ID.
+ 2. **Installation on stamping unit and track and trace unit on given deadline** took into production and configuration of camera and setting as per products
+
+• **PCT curve wander detection**
+ 1. This is taken as **trail projects for detection of curve graphics as existing system** is not capable of it and configuration of camera along with vendor.
+
+• **Waste sorting machine**
+ 1. **Man power required for sorting of waste** in production now it has been eliminated.
+ 2. Installation of waste sorting machine as per **safety guideline converted 230V control unit to 24 V control unit** and addition motors added at machine competed on before deadlines
+
+• **Case packer taping unit**
+ 1. By this unit the **taping process as been motorized** for good taping quality **before it was cylinder-based**
+ 2. Installing of tapping unit connection and mounting of motor and **logic modification in PLC** end
+
+• **Case packer Outer miss detection camera** 
+ 1. This system is to **detect the missed outer across all rows and columns** before only top layer was getting detected by camera based
+ 2. Installing the camera calculated the distance of the product and choosing the correct camera and configuration of it to detect the miss outer, **logic modified in PLC and in HMI message edit**
+
+• **Case packer conveyor extension** 
+ 1. New conveyor added and extension done for **creating more buffer for producing CFC**
+ 2. Conveyor extension Control unit connection done motor fixed and new gates and sensor added and **took it into existing logic** and finished it before deadline
 
 </p>
 
